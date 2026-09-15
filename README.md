@@ -8,7 +8,7 @@ Trợ lý trí tuệ nhân tạo cài trên máy tính Windows, dành cho **giá
 - Công tác chủ nhiệm, đánh giá học sinh, sinh hoạt chuyên môn, sáng kiến, hồ sơ giáo viên; văn bản của tổ, lớp đúng thể thức Nghị định 30/2020/NĐ-CP.
 - Xưởng phần mềm: nói yêu cầu, trợ lý làm trò chơi, ứng dụng dạy học chạy trên trình duyệt.
 - Trợ lý tự làm đến khi xong việc, có mục Tư vấn sau mỗi nhiệm vụ; bộ nhớ lưu trên máy; tự cập nhật.
-- Không cần mã kích hoạt. Yêu cầu: Windows 10 (1809+) hoặc Windows 11 64-bit, Internet, tài khoản Claude gói trả phí.
+- Mỗi máy cần mã kích hoạt 25 ký tự (gửi mã máy cho tác giả qua Zalo 0913031073). Yêu cầu: Windows 10 (1809+) hoặc Windows 11 64-bit, Internet, tài khoản Claude gói trả phí.
 
 Thiết kế: thầy Trần Thanh Chung - 0913031073.
 Phần mềm do cá nhân xây dựng, chia sẻ miễn phí, không phải sản phẩm chính thức của cơ quan nhà nước.
